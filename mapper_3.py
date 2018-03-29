@@ -1,3 +1,4 @@
+#Rincy Raju George- Big Data- Mapper code to compute how many times every term occurs across titles, for each author using Python Hadoop Streaming
 #!/usr/bin/env python 
 import sys
 import os
